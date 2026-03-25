@@ -26,7 +26,7 @@ Currently working through:
 - I have 3 cats: Loki, Felix, and Minx 🐱
 - I enjoy hiking and camping 🌲
 - I love anime & manga (favorite: Tokyo Ghoul)
-- Big fan of tea 🍵
+- Love tea 🍵
 
 ### 🎯 Goals
 - Build real-world projects and grow my portfolio
