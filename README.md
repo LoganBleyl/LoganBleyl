@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**LoganBleyl/LoganBleyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Logan — 27 years old and starting my Computer Science degree at SUNY Schenectady this year.
 
-Here are some ideas to get you started:
+I'm passionate about building things and continuously improving my skills as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Currently Learning
+- Python (primary language)
+- JavaScript & TypeScript
+- Planning to learn Go
+
+Currently working through:
+- Boot.dev (JavaScript Path)
+- FreeCodeCamp curriculum
+- Harvard's CS50 (planned)
+
+---
+
+### ⚡ Fun Facts
+- I have 3 cats: Loki, Felix, and Minx 🐱
+- I enjoy hiking and camping 🌲
+- I love anime & manga (favorite: Tokyo Ghoul)
+- Big fan of tea 🍵
+
+### 🎯 Goals
+- Build real-world projects and grow my portfolio
+- Strengthen problem-solving and computer science fundamentals
+- Become a well-rounded full-stack developer
+
+### 🧰 Tools & Tech
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)](#)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
+![Alacritty Badge](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff&style=flat-square)
