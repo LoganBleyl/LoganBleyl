@@ -16,6 +16,10 @@ Currently working through:
 - FreeCodeCamp curriculum
 - Harvard's CS50 (planned)
 
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/cfb73ef3-6d19-4ef2-9943-ba908bedaaf6/thumbnail" >
+</p>
+
 ---
 
 ### ⚡ Fun Facts
@@ -35,8 +39,3 @@ Currently working through:
 ![Alacritty Badge](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
-
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/cfb73ef3-6d19-4ef2-9943-ba908bedaaf6/thumbnail" >
-</p>
-
