@@ -32,6 +32,7 @@ Currently working through:
 ### 🧰 Tools & Tech
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)](#)
+![Alacritty Badge](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff&style=flat-square)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
-![Alacritty Badge](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff&style=flat-square)
+
