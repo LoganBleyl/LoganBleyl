@@ -13,11 +13,7 @@ I'm passionate about building things and continuously improving my skills as a d
 Currently working through:
 - Boot.dev (JavaScript Path)
 - FreeCodeCamp curriculum
-
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/cfb73ef3-6d19-4ef2-9943-ba908bedaaf6/thumbnail" >
-</p>
-
+  
 ---
 
 ### 🎯 Goals
@@ -26,6 +22,11 @@ Currently working through:
 - Become a well-rounded full-stack developer
 
 ### 🎓 Education
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/cfb73ef3-6d19-4ef2-9943-ba908bedaaf6/thumbnail" >
+</p>
+
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)
