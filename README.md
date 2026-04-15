@@ -9,12 +9,10 @@ I'm passionate about building things and continuously improving my skills as a d
 ### 🚀 Currently Learning
 - Python (primary language)
 - JavaScript & TypeScript
-- Planning to learn Go
 
 Currently working through:
 - Boot.dev (JavaScript Path)
 - FreeCodeCamp curriculum
-- Harvard's CS50 (planned)
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/cfb73ef3-6d19-4ef2-9943-ba908bedaaf6/thumbnail" >
