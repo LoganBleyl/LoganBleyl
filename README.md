@@ -22,12 +22,6 @@ Currently working through:
 
 ---
 
-### ⚡ Fun Facts
-- I have 3 cats: Loki, Felix, and Minx 🐱
-- I enjoy hiking and camping 🌲
-- I love anime & manga (favorite: Tokyo Ghoul)
-- Love tea 🍵
-
 ### 🎯 Goals
 - Build real-world projects and grow my portfolio
 - Strengthen problem-solving and computer science fundamentals
