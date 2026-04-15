@@ -33,7 +33,7 @@ Currently working through:
 - Strengthen problem-solving and computer science fundamentals
 - Become a well-rounded full-stack developer
 
-###🎓 Education
+### 🎓 Education
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#)
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)
