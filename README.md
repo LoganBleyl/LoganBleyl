@@ -11,7 +11,7 @@ I'm passionate about building things and continuously improving my skills as a d
 - JavaScript & TypeScript
 
 Currently working through:
-- Boot.dev (JavaScript Path)
+- Boot.dev
 - FreeCodeCamp curriculum
   
 ---
